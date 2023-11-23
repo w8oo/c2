@@ -1,4 +1,3 @@
-# c2
 
 # master.py
 
@@ -10,7 +9,7 @@ The master.py file is the one you will use to send commands, like this:
 python3 master.py <command>
 ```
 
-#bot.py
+# bot.py
 
 
 This file will be on the server. You need to whitelist the master's IP and set the ports for both of the files.
